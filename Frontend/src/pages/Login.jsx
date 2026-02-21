@@ -20,7 +20,7 @@ function Login() {
 
         try {
             const res = await axios.post(
-                "https://backend-training-6ekf.onrender.com/api/auth/login",
+                "https://backend-training-qddn.onrender.com/api/auth/login",
                 form
             );
 
